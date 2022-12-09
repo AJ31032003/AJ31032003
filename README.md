@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akhi4009" alt="akhi4009" /></a> </p>
 
 
-- 🌱 I’m currently learning **Redux,Typescript,Storybook and NextJS**
+- 🌱 I’m currently learning **Redux,Typescript and NextJS**
 
 - 👨‍💻 All of my projects are available at [https://aj31032003.github.io/](https://aj31032003.github.io/)
 
