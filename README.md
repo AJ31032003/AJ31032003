@@ -1,12 +1,11 @@
 - 👋 Hi, I’m Arihant Jain
 - I'm a Full Stack Web Developer.
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akhi4009" alt="akhi4009" /></a> </p>
 
 
-- 🌱 I’m currently learning **Redux,Typescript and NextJS**
 
+- 🌱 I’m currently learning **Redux,Typescript and NextJS**
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 👨‍💻 All of my projects are available at [https://aj31032003.github.io/](https://aj31032003.github.io/)
 
 - 💬 Ask me about **HTML,CSS,JavaScript,React,Chakra,Json**
