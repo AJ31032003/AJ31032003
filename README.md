@@ -42,4 +42,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aj31032003&layout=compact&text_color=daf7dc&bg_color=151515" /></p>
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aj31032003&theme=apprentice&no-frame=false&no-bg=true&margin-w=4)
+
+<img src="https://github-profile-trophy.vercel.app/?username=aj31032003"/>
