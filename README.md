@@ -40,8 +40,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=AJ31032003" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aj31032003&show_icons=true&locale=en&layout=compact&theme=gotham" /></p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aj31032003&layout=compact&text_color=daf7dc&bg_color=151515" /></p>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=aj31032003&theme=apprentice&no-frame=false&no-bg=true&margin-w=4)
