@@ -39,6 +39,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=aj31032003&show_icons=true" /></p>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AJ31032003&bg_color=0D1117" alt="arihamt"/>
 ## 🏆 GitHub Trophies
 
 <img src="https://github-profile-trophy.vercel.app/?username=aj31032003"/>
